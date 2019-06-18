@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Faha - HeadsAndHands</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="authorization_text">Авторизация</string>
+    <string name="create_text">СОЗДАТЬ</string>
+    <string name="email_hint">Электронная почта</string>
+    <string name="password_hint">Пароль</string>
+    <string name="enter_text">ВОЙТИ</string>
+    <string name="email_error_text">Ошибка в e-mail</string>
+    <string name="pass_description">Пароль - минимум 6 символов, должен обязательно содержать минимум 1 строчную букву, 1 заглавную, и 1 цифру</string>
+    <string name="network_alert_message">Для работы приложения нужно интернет соединение. Открыть настройки сети?</string>
+</resources>
